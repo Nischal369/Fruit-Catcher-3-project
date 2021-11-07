@@ -1,1 +1,1 @@
-# Fruit-Catcher-3-project
+# Fruit-Catcher-3
